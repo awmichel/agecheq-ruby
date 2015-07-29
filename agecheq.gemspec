@@ -6,6 +6,7 @@ require 'agecheq/version'
 Gem::Specification.new do |s|
   s.name        = 'agecheq'
   s.version     = AgeCheq::VERSION
+  s.licenses    = ['MIT']
   s.authors     = ['Quirky Development', 'Adam Michel']
   s.email       = ['platform@quirky.com', 'amichel@quirky.com']
   s.homepage    = 'https://www.quirky.com'
